@@ -1,2 +1,2 @@
 # 项目介绍
-实现uiautomator2.0脱离PC运行，博客地址：https://blog.csdn.net/pgz100
+实现apk调用uiautomator测试，实现脱离pc运行。
